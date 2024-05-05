@@ -4,7 +4,7 @@
 
 _Create, customize and deploy your own portfolio website in minutes._ ✨
 
-In this template repository we have the development environment and base set and ready to go. So that you can immediately launch the Codespaces to customize with no setup.
+In this template repository we have the development
 
 - **Who is this for?** __Anyone__ looking to create a portfolio site, learn web development, or test out Codespaces.
 - **How much experience do you need?** __Zero__. You decide how much you want to customize based on your experience, and time available.
